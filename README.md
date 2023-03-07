@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+        <h1>Olá meu nome é Kadu</h1>
+        <a href="https://github.com/Kadu17"></a>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kadu17&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadu17&layout=compact&langs_count=7&theme=github_dark"/>
+    </div>
 
 <!--
 **Kadu17/Kadu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
