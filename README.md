@@ -1,7 +1,7 @@
 <div align="center">
         <h1>Hello my name is Kadu</h1>
         <a href="https://github.com/Kadu17"></a>
-        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kadu17&theme=radical&hide_border=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kadu17&theme=github_dark&hide_border=true&count_private=true"/>
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadu17&layout=compact&langs_count=7&theme=github_dark"/>
     </div>
 
